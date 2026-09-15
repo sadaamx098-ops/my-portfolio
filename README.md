@@ -8,7 +8,7 @@ Welcome to my portfolio! I am a **Cybersecurity Analyst & AI-Driven Developer** 
 
 - 🛡️ **[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/8FX3LWCRHDGG)** *(Google - Completed Sept 2026)*
   - *Skills:* Network Security, Linux CLI, SQL, Python Automation, SIEM Tools, Threat & Vulnerability Assessment.
-- 🤖 **Google AI Professional Certificate** *(Google - Completed Aug 2026)*
+- 🤖 **[Google AI Professional Certificate] (https://www.coursera.org/account/accomplishments/specialization/HYWC4FGJVQSB)** *(Google - Completed Aug 2026)*
   - *Skills:* Generative AI, Prompt Engineering, Prototyping, Data Analysis with AI.
 
 ---
