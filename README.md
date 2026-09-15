@@ -28,8 +28,8 @@ Welcome to my portfolio! I am a **Cybersecurity Analyst & AI-Driven Developer** 
 - **SXN News Aggregator:** Web dashboard for dynamic news parsing.
 - **Fududeeye:** Food ordering landing page interface.
 - **Vulnerability Assessment & Web Security Audit:**
-  - Conducted a comprehensive security analysis and vulnerability assessment on [imla.myilmiya.com](https://imla.myilmiya.com/).
-  - Identified potential security risks, web application vulnerabilities, and provided actionable mitigation strategies to strengthen system defense.
+  - Conducted a security analysis on [imla.myilmiya.com](https://imla.myilmiya.com/).
+  - 📄 **[Read Full Vulnerability Assessment Report](./SECURITY_REPORT.md)**
 
 ---
 
