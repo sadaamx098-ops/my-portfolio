@@ -23,6 +23,7 @@ Welcome to my portfolio! I am a **Cybersecurity Analyst & AI-Driven Developer** 
 
 ## 📂 Projects
 
+- **Haier ERP System:** Enterprise Resource Planning backend built with NestJS, TypeORM, and JWT authentication.
 - **Siidka OS:** Web-based simulated desktop environment.
 - **Real-Time Chat App:** Built using Node.js, Socket.io, and Firebase.
 - **SXN News Aggregator:** Web dashboard for dynamic news parsing.
@@ -30,7 +31,7 @@ Welcome to my portfolio! I am a **Cybersecurity Analyst & AI-Driven Developer** 
 - **Vulnerability Assessment & Web Security Audit:**
   - Conducted a security analysis on [imla.myilmiya.com](https://imla.myilmiya.com/).
   - 📄 **[Read Full Vulnerability Assessment Report](./SECURITY_REPORT.md)**
-
+    
 ---
 
 📬 *Feel free to connect with me on LinkedIn or explore my repositories!*
