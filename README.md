@@ -27,6 +27,7 @@ Welcome to my portfolio! I am a **Cybersecurity Analyst & AI-Driven Developer** 
 - **Real-Time Chat App:** Built using Node.js, Socket.io, and Firebase.
 - **SXN News Aggregator:** Web dashboard for dynamic news parsing.
 - **Fududeeye:** Food ordering landing page interface.
+- **Jay Desktop Assistant:** Intelligent Python voice assistant with Smart AI support, voice commands, app launching, safe app discovery and installation, task management, weather updates, and a custom dashboard.
 - **Vulnerability Assessment & Web Security Audit:**
   - Conducted a security analysis on [imla.myilmiya.com](https://imla.myilmiya.com/).
   - 📄 **[Read Full Vulnerability Assessment Report](./SECURITY_REPORT.md)**
